@@ -1,0 +1,97 @@
+
+  <body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="/home">Home</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <!-- ----menu tabela produçao---- -->
+        <div ngbDropdown class="dropdown">
+          <button ngbDropdownToggle class="btn btn-secondary" type="button" id="dropdownMenuButton1" aria-expanded="false">
+        Tabela Produção
+        </button>
+          <ul ngbDropdownMenu aria-labelledby="dropdownMenuButton1">
+            <li><a ngbDropdownItem href="/tabelaProduçao">Inserir tabela Produção</a></li>
+            <li><button id="butPass" class="nav-item nav-link" (click) = "paginaMaquina()">Consultar máquina de operação</button></li>
+          </ul>
+        </div>
+        <!-- ----menu gestao utilizadores---- -->
+        <div ngbDropdown class="dropdown">
+          <button ngbDropdownToggle class="btn btn-secondary" type="button" id="dropdownMenuButton2" aria-expanded="false">
+        Gestão Utilizadores
+        </button>
+          <ul ngbDropdownMenu aria-labelledby="dropdownMenuButton1">
+            <li><button id="butPass" class="nav-item nav-link" (click) = " ModificaFv()">alterar palavra pass</button></li>
+            <li><button id="butPass" class="nav-item nav-link" (click) = "confirmaUtilizador()">Utilizadores</button></li>
+          </ul>
+        </div>
+        <!-- ---- menu Simulaçoes---- -->
+        <div ngbDropdown class="dropdown">
+          <button ngbDropdownToggle class="btn btn-secondary" type="button" id="dropdownMenuButton2" aria-expanded="false">
+        Simulações
+        </button>
+          <ul ngbDropdownMenu aria-labelledby="dropdownMenuButton1">
+            <li><button id="butPass" class="nav-item nav-link" (click) = "inserirDados()">Inserir Dados</button></li>
+            <li><a ngbDropdownItem href="/apagarSimulacao">Remover Simulação</a></li>
+            <li><a ngbDropdownItem href="/listaSimulacoes">listar simulações</a></li>
+            <li><a ngbDropdownItem href="/alterarTabela">Alterar Operação</a></li>
+          </ul>
+</div>
+        <!-- ----menu atribuir tempos---- -->
+        <div ngbDropdown class="dropdown">
+          <button ngbDropdownToggle class="btn btn-secondary" type="button" id="dropdownMenuButton2" aria-expanded="false">
+        Atribuir tempos
+        </button>
+          <ul ngbDropdownMenu aria-labelledby="dropdownMenuButton1">
+            <li><a ngbDropdownItem href="/atribuirTempos">Atribuir tempos manualmente</a></li>
+            <li><a ngbDropdownItem href="/tempoAutomatico">Atribuir tempos automaticamente</a></li>
+          </ul>
+        </div>
+         <!-- ----menu atribuir Download's---- -->
+         <div ngbDropdown class="dropdown">
+          <button ngbDropdownToggle class="btn btn-secondary" type="button" id="dropdownMenuButton2" aria-expanded="false">
+            Download's
+        </button>
+          <ul ngbDropdownMenu aria-labelledby="dropdownMenuButton1">
+            <li><button id="butPass" class="nav-item nav-link" (click) = " modificaDf()">Plano de Produção</button></li>
+            <li><button id="butPass" class="nav-item nav-link" (click) = "modificaTb()">Tabela de Produção</button></li>
+          </ul>
+        </div>
+        
+        <button id="butPass" class="nav-item nav-link" (click) = "logout()">Sair</button>
+      </div>
+    </div>
+    <div class="form-group" *ngIf="df">
+      <label for="sel1"> selecione a Simulação</label>
+      <select class="form-control"  [(ngModel)]="idSimulacao" (change)= "validaSimulacao(idSimulacao)" id="sel1" name="self1">
+         <option *ngFor="let u of simulacoes" value= {{u.Id}}>
+           {{u.Nome }}
+         </option>
+      </select>
+      <button id="bot" type="submit" class="btn btn-success" (click)="exportPlano()">download</button>
+    </div>
+    
+    <div class="form-group" *ngIf="tb">
+      <label for="sel1"> selecione a Simulação</label>
+      <select class="form-control"  [(ngModel)]="idSimulacao" (change)= "validaSimulacao(idSimulacao)" id="sel1" name="self1">
+         <option *ngFor="let u of simulacoes" value= {{u.Id}}>
+           {{u.Nome }}
+         </option>
+      </select>
+      <button id="bot" type="submit" class="btn btn-success" (click)="exportTabela()">download</button>
+    </div>
+
+  <div id="tu" class="form-group" *ngIf="fv">
+    <label for="cpf">Antiga Palavra pass</label>
+    <input type="password" class="form-control" placeholder="password" id="cpf" name="cpf" [(ngModel)]="oldPass" />
+    <label for="cp">Nova Palavra pass</label>
+    <input type="password" class="form-control" placeholder="password" id="cp" name="cp" [(ngModel)]="newPass" />
+  
+  </div>
+  <div class="form-group" *ngIf="fv">
+    <button type="submit" class="btn btn-success" (click)="alteraPass()">Guardar</button>
+  </div>
+</nav>
+</body>

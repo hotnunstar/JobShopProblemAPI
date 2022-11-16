@@ -1,0 +1,52 @@
+<app-home></app-home>
+<form>
+    <div class="form-group">
+      <h2>Insira novo utilizador</h2>
+      <label for="exampleInputEmail1">Username</label>
+      <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="username" [(ngModel)]="user.Username" [ngModelOptions]="{standalone: true}">
+    </div>
+    <div class="form-group">
+      <label for="exampleInputPassword1">Password</label>
+      <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Password" [(ngModel)]="user.Password" [ngModelOptions]="{standalone: true}">
+    </div>
+    <div class="form-check">
+      <input type="checkbox" class="form-check-input" id="exampleCheck1"  [(ngModel)]="user.Admin" [ngModelOptions]="{standalone: true}">
+      <label class="form-check-label" for="exampleCheck1">administrador? </label>
+    </div>
+    <div id="tu">
+    <button type="submit" class="btn btn-success" (click) = "chek()">Guardar</button>
+    <button type="submit" class="btn btn-primary" (click) = "alteraEstado()">Lista Utilizadores</button>
+    
+      <a routerLink="/home">
+        <button type="button" class="btn btn-danger">Sair</button>
+      </a>
+    </div>
+  </form>
+  <table class="table" *ngIf="estado">
+    <thead>
+      <tr>
+        <th scope="col">Username</th>
+        <th scope="col">Administrador</th>
+        <th scope="col">Estado</th>
+        <th scope="col">Alterar Estado</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr  *ngFor = "let u of utili">
+        <td>{{u.Username }}</td>
+        <td>{{u.Admin}}</td>
+        <td>{{u.Estado}}</td>
+        <td id="eu"> <button type="submit" (click)="apagarUtilizador(u)"><i class="bi bi-pencil"></i></button></td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="form-group" *ngIf="fv">
+    <label for="cpf"></label>
+    <input type="password" class="form-control" placeholder="password" id="cpf" name="cpf" [(ngModel)]="newPass" />
+  </div>
+  <div class="form-group" *ngIf="fv">
+    <button type="submit" >Guardar</button>
+  <a routerLink="/home">
+    <button type="button" class="btn btn-danger">Sair</button>
+  </a>
+  

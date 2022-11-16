@@ -1,0 +1,39 @@
+<h1>Alterar o valor de determinada operação</h1>
+<div id="nos">
+
+    <label for="sel1"> selecione a Simulação</label>
+  <select class="form-control"  [(ngModel)]="idSimul" (change)= "validaSimulacao(idSimul)" id="sel1" name="self1">
+     <option *ngFor="let u of simulacoes" value= {{u.Id}}>
+       {{u.Nome }}
+     </option>
+  </select>
+  
+  <label for="sel1"> selecione o Job</label>
+  <select class="form-control"  [(ngModel)]="idJob" (change)= "validaJob(idJob)" id="sel1" name="self1">
+     <option *ngFor="let u of jobs" value= {{u.Id}}>
+       {{u.Nome }}
+     </option>
+  </select>
+  
+  <label for="sel1"> selecione a Operação</label>
+   <select class="form-control"  [(ngModel)]="idOperacao" (change)= "validaOperacao(idOperacao)" id="sel1" name="self1">
+      <option *ngFor="let u of operacoes" value= {{u.Id}}>
+        {{u.Nome }}
+      </option>
+   </select>
+   <label for="sel1"> selecione a nova Máquina</label>
+   <select class="form-control"  [(ngModel)]="idMaquina" (change)= "validaMaquina(idMaquina)" id="sel1" name="self1">
+      <option *ngFor="let u of maquinas" value= {{u.Id}}>
+        {{u.Nome }}
+      </option>
+   </select>
+   <form (ngSubmit)="onSubmit()">
+    <label for="1">tempo de Execução</label>
+    <input type="number" id="1"  name=" unidadeTempo" [(ngModel)] ="unidadeTempo" name="1" placeholder="Unidade Tempo">
+    
+  </form>
+</div>
+ <button type="button" class="btn btn-success" (click)="guardar()">Guardar</button>
+<a routerLink="/home">
+  <button type="button" class="btn btn-danger">Sair</button>
+</a>

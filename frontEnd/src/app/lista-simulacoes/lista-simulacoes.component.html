@@ -1,0 +1,35 @@
+<app-home></app-home>
+<div id="table">
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Job</th>
+            <th scope="col">Operação</th>
+            <th scope="col">Simulação</th>
+            <th scope="col">Máquina</th>
+            <th scope="col">Tempo Inicial</th>
+            <th scope="col">Unidade tempo</th>
+            <th scope="col">Tempo Final</th>
+            <th scope="col">Pos Operação</th>
+            <th scope="col">Estado</th>
+           
+          </tr>
+        </thead>
+        <tbody>
+          <tr  *ngFor = "let u of simulacoes">
+            
+            <td id="tu">{{u.IdJob }}</td>
+            <td>{{u.IdOperacao}}</td>
+            <td>{{u.IdSimulacao}}</td>
+            <td>{{u.IdMaquina}}</td>
+            <td>{{u.TempoInicial}}</td>
+            <td>{{u.UnidadeTempo}}</td>
+            <td>{{u.TempoFinal}}</td>
+            <td>{{u.PosOperacao}}</td>
+            <td>{{u.Estado}}</td>
+          </tr>
+          
+        </tbody>
+      </table>
+      
+    </div>

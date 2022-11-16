@@ -1,0 +1,45 @@
+.form-group
+{
+    margin-top: 1%;
+    margin-right: 90%;
+    margin-left: 1%;
+    color: white;
+}
+label
+{
+    margin-bottom: 5%;
+}
+button
+{
+    margin-top: 5%;
+}
+.job
+{
+    position: absolute;
+    margin-left: 40%;
+    margin-right: 10%;
+    margin-top: 10%;
+}
+.simul
+{
+    position: absolute;
+    margin-left: 60%;
+    margin-top: 10%;
+}
+.maquina
+{
+    position: absolute;
+    padding-left: 1%;
+    margin-top: 10%;
+    
+}
+.operacao
+{
+    position: absolute;
+    margin-left: 19%;
+    margin-top: 10%;
+}
+h1
+{
+    margin-top: 3%;
+}

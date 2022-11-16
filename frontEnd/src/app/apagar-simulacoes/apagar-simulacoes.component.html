@@ -1,0 +1,13 @@
+<h1>Eliminar Simulação</h1>
+<div id="nos"> 
+<label for="sel1"> selecione a Simulação</label>
+<select class="form-control"  [(ngModel)]="idSimul" (change)= "validaSimulacao(idSimul)" id="sel1" name="self1">
+   <option *ngFor="let u of simulacoes" value= {{u.Id}}>
+     {{u.Nome }}
+   </option>
+</select>
+<button type="submit" class="btn btn-primary" (click) = "apagarSimulacao()">Eliminar Simulação</button>
+<a routerLink="/home">
+    <button type="button" class="btn btn-danger">Sair</button>
+  </a>
+</div>

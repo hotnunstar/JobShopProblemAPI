@@ -1,0 +1,25 @@
+<app-home></app-home>
+<h1>Atribuição Novas máquinas, Job's, simulações, operações!</h1>
+<div class="form-group">
+    <div class="job"> 
+    <label for="cpf">Insira o nome do Job</label>
+    <input type="text" class="form-control" placeholder="Nome do Job" id="cpf" name="cpf" [(ngModel)]="job.Nome" />
+    <button class="btn btn-success" type="submit" (click)="guardaJob()" >Guardar Job</button>
+    </div>
+    <div class="maquina"> 
+    <label for="cp">Insira o nome da Máquina</label>
+    <input type="text" class="form-control" placeholder="Nome da máquina" id="cp" name="cp" [(ngModel)]="maquina.Nome" />
+    <button class="btn btn-success" type="submit" (click)="guardaMaquina()" >Guardar máquina</button>
+    </div>
+    <div class="simul">
+    <label for="cp1">Insira o nome da Simulação</label>
+    <input type="text" class="form-control" placeholder="Nome da simulação" id="cp1" name="cp1" [(ngModel)]="simulacao.Nome" />
+    <button class="btn btn-success" type="submit" (click)="guardaSimulacao()" >Guardar Simulação</button>
+    </div>
+    <div class="operacao">
+    <label for="cp2">Insira o nome da Operação</label>
+    <input type="text" class="form-control" placeholder="Nome da operação" id="cp2" name="cp2" [(ngModel)]="operacao.Nome" />
+    <button class="btn btn-success" type="submit" (click)="guardaOperacao()" >Guardar Operação</button>
+</div>
+  </div>
+ 

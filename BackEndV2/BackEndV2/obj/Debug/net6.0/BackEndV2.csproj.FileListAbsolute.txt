@@ -1,0 +1,294 @@
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\appsettings.Development.json
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\appsettings.json
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.exe
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.deps.json
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.runtimeconfig.json
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.pdb
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\Npgsql.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.AssemblyReference.cache
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.GeneratedMSBuildEditorConfig.editorconfig
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.AssemblyInfoInputs.cache
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.AssemblyInfo.cs
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.CoreCompileInputs.cache
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.MvcApplicationPartsAssemblyInfo.cs
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.MvcApplicationPartsAssemblyInfo.cache
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\obj\Debug\net6.0\staticwebassets.build.json
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\obj\Debug\net6.0\staticwebassets.development.json
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\obj\Debug\net6.0\scopedcss\bundle\BackEndV2.styles.css
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.CopyComplete
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\obj\Debug\net6.0\refint\BackEndV2.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.pdb
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.genruntimeconfig.cache
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEnd\BackEndV2\BackEndV2\obj\Debug\net6.0\ref\BackEndV2.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\appsettings.Development.json
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\appsettings.json
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.exe
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.deps.json
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.runtimeconfig.json
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.pdb
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Npgsql.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.AssemblyReference.cache
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.GeneratedMSBuildEditorConfig.editorconfig
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.AssemblyInfoInputs.cache
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.AssemblyInfo.cs
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.CoreCompileInputs.cache
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.MvcApplicationPartsAssemblyInfo.cs
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.MvcApplicationPartsAssemblyInfo.cache
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\staticwebassets.build.json
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\staticwebassets.development.json
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\scopedcss\bundle\BackEndV2.styles.css
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.CopyComplete
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\refint\BackEndV2.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.pdb
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.genruntimeconfig.cache
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\ref\BackEndV2.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\appsettings.Development.json
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\appsettings.json
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.exe
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.deps.json
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.runtimeconfig.json
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.pdb
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Npgsql.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\PartialResponse.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.AssemblyReference.cache
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.AssemblyInfoInputs.cache
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.AssemblyInfo.cs
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.CoreCompileInputs.cache
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.MvcApplicationPartsAssemblyInfo.cs
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.MvcApplicationPartsAssemblyInfo.cache
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\staticwebassets.build.json
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\staticwebassets.development.json
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\scopedcss\bundle\BackEndV2.styles.css
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.CopyComplete
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\refint\BackEndV2.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.pdb
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.genruntimeconfig.cache
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\ref\BackEndV2.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\appsettings.Development.json
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\appsettings.json
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.exe
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.deps.json
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.runtimeconfig.json
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.pdb
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Npgsql.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\PartialResponse.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.AssemblyReference.cache
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.AssemblyInfoInputs.cache
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.AssemblyInfo.cs
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.CoreCompileInputs.cache
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.MvcApplicationPartsAssemblyInfo.cs
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.MvcApplicationPartsAssemblyInfo.cache
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\staticwebassets.build.json
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\staticwebassets.development.json
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\scopedcss\bundle\BackEndV2.styles.css
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.CopyComplete
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\refint\BackEndV2.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.pdb
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.genruntimeconfig.cache
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\ref\BackEndV2.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\System.Web.Http.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\PartialResponse.Core.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Google.OrTools.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Google.Protobuf.dll
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\linux-x64\native\google-ortools-native.so
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\linux-x64\native\libortools.so.9
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\osx-x64\native\google-ortools-native.dylib
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\osx-x64\native\libortools.9.dylib
+D:\ \Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\win-x64\native\google-ortools-native.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\appsettings.Development.json
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\appsettings.json
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.exe
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.deps.json
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.runtimeconfig.json
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.pdb
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Google.OrTools.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Google.Protobuf.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Npgsql.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\PartialResponse.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\linux-x64\native\google-ortools-native.so
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\linux-x64\native\libortools.so.9
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\osx-x64\native\google-ortools-native.dylib
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\osx-x64\native\libortools.9.dylib
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\win-x64\native\google-ortools-native.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.AssemblyReference.cache
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.GeneratedMSBuildEditorConfig.editorconfig
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.AssemblyInfoInputs.cache
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.AssemblyInfo.cs
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.CoreCompileInputs.cache
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.MvcApplicationPartsAssemblyInfo.cs
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.MvcApplicationPartsAssemblyInfo.cache
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\staticwebassets.build.json
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\staticwebassets.development.json
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\scopedcss\bundle\BackEndV2.styles.css
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.CopyComplete
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\refint\BackEndV2.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.pdb
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.genruntimeconfig.cache
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\TP\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\ref\BackEndV2.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Google.OrTools.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\linux-x64\native\google-ortools-native.so
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\linux-x64\native\libortools.so.9
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\osx-x64\native\google-ortools-native.dylib
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\osx-x64\native\libortools.9.dylib
+D:\Pessoal\Projects\CD\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\win-x64\native\google-ortools-native.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\appsettings.Development.json
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\appsettings.json
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.exe
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.deps.json
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.runtimeconfig.json
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\BackEndV2.pdb
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Google.OrTools.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Google.Protobuf.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\System.Web.Http.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Npgsql.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\PartialResponse.Core.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\PartialResponse.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\linux-x64\native\google-ortools-native.so
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\linux-x64\native\libortools.so.9
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\osx-x64\native\google-ortools-native.dylib
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\osx-x64\native\libortools.9.dylib
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\win-x64\native\google-ortools-native.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.AssemblyReference.cache
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.GeneratedMSBuildEditorConfig.editorconfig
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.AssemblyInfoInputs.cache
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.AssemblyInfo.cs
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.CoreCompileInputs.cache
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.MvcApplicationPartsAssemblyInfo.cs
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.MvcApplicationPartsAssemblyInfo.cache
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\staticwebassets.build.json
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\staticwebassets.development.json
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\scopedcss\bundle\BackEndV2.styles.css
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.csproj.CopyComplete
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\refint\BackEndV2.dll
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.pdb
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\BackEndV2.genruntimeconfig.cache
+H:\O meu disco\Universidade\2º semestre\Comunicação dados\ComunicacaoDados\BackEndV2\BackEndV2\obj\Debug\net6.0\ref\BackEndV2.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Google.OrTools.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Google.Protobuf.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\System.Web.Http.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\PartialResponse.Core.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\PartialResponse.dll
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\linux-x64\native\google-ortools-native.so
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\linux-x64\native\libortools.so.9
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\osx-x64\native\google-ortools-native.dylib
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\osx-x64\native\libortools.9.dylib
+G:\O meu disco\Documents\Universidade\LESIPL2ano\2Semestre\Comunicação de dados\Trabalho Prático\ComunicacaoDados\BackEndV2\BackEndV2\bin\Debug\net6.0\runtimes\win-x64\native\google-ortools-native.dll

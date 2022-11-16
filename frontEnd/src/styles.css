@@ -1,0 +1,7 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+body{
+    width:100%; /* box retangular */
+  height:100%;  /* box retangular */
+  background-color: blue;
+  background-image: linear-gradient( to right,rgb(59, 59, 59) 1%,gray,rgb(26, 25, 25))
+}

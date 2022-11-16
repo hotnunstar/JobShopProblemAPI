@@ -1,0 +1,29 @@
+<app-home></app-home>
+<h1>Consulte a máquina</h1>
+<div class="container"> 
+
+  <label for="sl1"> selecione a Simulação</label>
+  <select class="form-control"  [(ngModel)]="IdSimul" (change)= "validaSimulacao(IdSimul)" id="sl1" name="slf1">
+     <option *ngFor="let u of simulacoes" value= {{u.Id}}>
+       {{u.Nome }}
+     </option>
+  </select>
+
+<label for="sel1"> selecione o Job</label>
+<select class="form-control"  [(ngModel)]="IdJob" (change)= "validaJob(IdJob)" id="sel1" name="self1">
+   <option *ngFor="let u of jobs" value= {{u.Id}}>
+     {{u.Nome }}
+   </option>
+</select>
+
+<label for="sel"> selecione a Operação</label>
+ <select class="form-control"  [(ngModel)]="IdOperacao" (change)= "validaOperacao(IdOperacao)" id="sel" name="self">
+    <option *ngFor="let u of operacoes" value= {{u.Id}}>
+      {{u.Nome }}
+    </option>
+ </select>
+ 
+<button type="button" class="btn btn-success" (click)="RetornaPlano()">Mostrar Máquina</button>
+<p *ngIf="controlador"> Máquina: {{nomeMaquina}}</p>
+<p *ngIf="controlador"> Tempo: {{tempoMaquina}}</p>
+</div>

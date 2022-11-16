@@ -1,0 +1,44 @@
+
+<h1>Construa o seu plano</h1>
+<div id="nos">
+
+  <label for="sel1"> selecione a Simulação</label>
+<select class="form-control"  [(ngModel)]="plano.IdSimulacao" (change)= "validaSimulacao(plano.IdSimulacao)" id="sel1" name="self1">
+   <option *ngFor="let u of simulacoes" value= {{u.Id}}>
+     {{u.Nome }}
+   </option>
+</select>
+
+<label for="sel1"> selecione o Job</label>
+<select class="form-control"  [(ngModel)]="plano.IdJob" (change)= "validaJob(plano.IdJob)" id="sel1" name="self1">
+   <option *ngFor="let u of jobs" value= {{u.Id}}>
+     {{u.Nome }}
+   </option>
+</select>
+
+<label for="sel1"> selecione a Operação</label>
+ <select class="form-control"  [(ngModel)]="plano.IdOperacao" (change)= "validaOperacao(plano.IdOperacao)" id="sel1" name="self1">
+    <option *ngFor="let u of operacoes" value= {{u.Id}}>
+      {{u.Nome }}
+    </option>
+ </select>
+
+<label for="sel1"> selecione a maquina</label>
+ <select class="form-control"  [(ngModel)]="plano.IdMaquina" (change)= "validaMaquina(plano.IdMaquina)" id="sel1" name="self1">
+    <option *ngFor="let u of maquinas" value= {{u.Id}}>
+      {{u.Nome }}
+    </option>
+ </select>
+
+<form (ngSubmit)="onSubmit()">
+  <label for="1">tempo de Execução</label>
+  <input type="number" id="1"  name="UnidadeTempo" [(ngModel)] ="plano.UnidadeTempo" name="1" placeholder="tempo Execução">
+  
+</form>
+</div>
+<button type="button" class="btn btn-success" (click)="InserePlano()">Guardar Plano</button>
+<a routerLink="/home">
+  <button type="button" class="btn btn-danger">Sair</button>
+</a>
+
+ 

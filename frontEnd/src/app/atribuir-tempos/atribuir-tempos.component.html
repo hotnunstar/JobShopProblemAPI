@@ -1,0 +1,64 @@
+
+<h1>Atribuição de tempos Manuais</h1>
+
+<div id="container">
+<label for="sel1"> selecione a Simulação</label>
+<select class="form-control"  [(ngModel)]="simulacao" (change)= "validaSimulacao(simulacao)" id="sel1" name="self1">
+   <option *ngFor="let u of simulacoes" value= {{u.Id}}>
+     {{u.Nome }}
+   </option>
+</select>
+  
+</div>
+<div id="table">
+<table class="table" *ngIf="fg">
+    <thead>
+      <tr>
+        <th scope="col">Job</th>
+        <th scope="col">Operação</th>
+        <th scope="col">Simulação</th>
+        <th scope="col">Máquina</th>
+        <th scope="col">Tempo Inicial</th>
+        <th scope="col">Unidade tempo</th>
+        <th scope="col">Tempo Final</th>
+        <th scope="col">Pos Operação</th>
+        <th scope="col">Estado</th>
+        <th scope="col">Alterar tempo Inicial</th>
+       
+      </tr>
+    </thead>
+    <tbody>
+      <tr  *ngFor = "let u of planos">
+        
+        <td id="tu">{{u.IdJob }}</td>
+        <td>{{u.IdOperacao}}</td>
+        <td>{{u.IdSimulacao}}</td>
+        <td>{{u.IdMaquina}}</td>
+        <td>{{u.TempoInicial}}</td>
+        <td>{{u.UnidadeTempo}}</td>
+        <td>{{u.TempoFinal}}</td>
+        <td>{{u.PosOperacao}}</td>
+        <td>{{u.Estado}}</td>
+    
+        <td id="eu"> <button (click)="modifica(u)"><i class="bi bi-pencil"></i> </button></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  <div id="tuu">
+<button type="button" class="btn btn-success" (click)="modificaTempo()">Guardar Plano</button>
+</div>
+<a routerLink="/home">
+  <button type="button" class="btn btn-danger">Sair</button>
+</a>
+
+
+<div class="form-group" *ngIf="fv">
+  <label for="cpf"></label>
+  <input type="number" class="form-control" placeholder="tempo Inicial" id="cpf" name="cpf" [(ngModel)]="tempoI" />
+</div>
+<div class="form-group" *ngIf="fv">
+  <button type="submit" (click) = " modificaTemp()">Armazenar Tempo</button>
+  
+</div>
+

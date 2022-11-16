@@ -1,0 +1,46 @@
+<h1>Atribuição de tempos Automáticos</h1>
+<div id="nos"> 
+<label for="sel1"> selecione a Simulação</label>
+<select class="form-control"  [(ngModel)]="idSimul" (change)= "validaSimulacao(idSimul)" id="sel1" name="self1">
+   <option *ngFor="let u of simulacoes" value= {{u.Id}}>
+     {{u.Nome }}
+   </option>
+</select>
+</div>
+
+<a routerLink="/home">
+  <button type="button" class="btn btn-danger">Sair</button>
+</a>
+<button class="btn btn-success" type="submit" (click)="printarPlano()" >Mostrar</button>
+<div id="table">
+  <table class="table" *ngIf="controlador">
+      <thead>
+        <tr>
+          <th scope="col">Job</th>
+          <th scope="col">Operação</th>
+          <th scope="col">Máquina</th>
+          <th scope="col">Tempo Inicial</th>
+          <th scope="col">Unidade tempo</th>
+          <th scope="col">Tempo Final</th>
+          <th scope="col">Pos Operação</th>
+          <th scope="col">Estado</th>
+         
+        </tr>
+      </thead>
+      <tbody>
+        <tr  *ngFor = "let u of planos">
+          
+          <td id="tu">{{u.IdJob }}</td>
+          <td>{{u.IdOperacao}}</td>
+          <td>{{u.IdMaquina}}</td>
+          <td>{{u.TempoInicial}}</td>
+          <td>{{u.UnidadeTempo}}</td>
+          <td>{{u.TempoFinal}}</td>
+          <td>{{u.PosOperacao}}</td>
+          <td>{{u.Estado}}</td>
+          
+        </tr>
+      </tbody>
+    </table>
+    
+  </div>
